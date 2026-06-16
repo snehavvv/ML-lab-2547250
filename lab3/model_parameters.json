@@ -1,0 +1,9 @@
+{
+    "model_name": "Simple Linear Regression - Student Survey Study Hours vs Exam Score",
+    "intercept_beta_0": 29.417970866361195,
+    "slope_beta_1": 2.2583324458606167,
+    "metrics": {
+        "mse": 14.741493787936012,
+        "r2": 0.8798859717945631
+    }
+}
