@@ -1,0 +1,5 @@
+=== Train-Test Split Comparison (K=5) ===
+       Train Samples  Test Samples  Accuracy  Precision    Recall  F1 Score
+80:20          455.0         114.0  0.964912   0.959459  0.986111  0.972603
+70:30          398.0         171.0  0.970760   0.955357  1.000000  0.977169
+90:10          512.0          57.0  0.982456   0.972973  1.000000  0.986301
